@@ -32,9 +32,10 @@ $ cd ..
 Checkout this repo and run the test:
 ```bash
 $ git clone https://github.com/geoxel/fhe-bool-operator.git
+$ cd fhe-bool-operator
 $ dotnet run
 ```
-
+## Following up
 Addition of two values can be done with the following loop, using AND, SHIFT and XOR operators.
 Unfortunately, this kind of pattern, even if the boolean operators are encyphered, could be read as a clear addition. 
 ```

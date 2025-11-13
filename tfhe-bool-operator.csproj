@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="fhe-dotnet">
-      <HintPath>../fhe-dotnet/bin/$(Configuration)/$(TargetFramework)/$(RuntimeIdentifier)/fhe-dotnet.dll</HintPath>
+    <Reference Include="tfhe-cs">
+      <HintPath>../tfhe-cs/bin/$(Configuration)/$(TargetFramework)/$(RuntimeIdentifier)/tfhe-cs.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -23,16 +23,16 @@ $ cd ..
 ```
 Retrieve the fhe-dotnet repo and build it.
 ```bash
-$ git clone https://github.com/geoxel/fhe-dotnet.git
-$ cd fhe-dotnet
+$ git clone https://github.com/geoxel/tfhe-cs.git
+$ cd tfhe-cs
 $ dotnet build
 $ cd ..
 ```
 ## Testing
 Checkout this repo and run the test:
 ```bash
-$ git clone https://github.com/geoxel/fhe-bool-operator.git
-$ cd fhe-bool-operator
+$ git clone https://github.com/geoxel/tfhe-bool-operator.git
+$ cd tfhe-bool-operator
 $ dotnet run
 ```
 ## Following up
